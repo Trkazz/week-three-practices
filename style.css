@@ -1,0 +1,49 @@
+/* main style*/
+*{
+    Margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgb(241, 57, 57);
+    padding: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    margin: 20px;
+}
+H1{
+    padding-top: 20px;
+}
+.products{
+    display: flex;
+    flex-wrap: nowrap;
+
+
+    
+}
+.veg{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 20px;
+
+}
+.animals{
+    background-color: turquoise;
+    color:tomato;
+    text-align: center;
+    margin: 20px;
+
+}
+.fruts {
+    background-color: violet;
+    color:turquoise;
+    text-align: center;
+    margin: 20px;
+
+}
